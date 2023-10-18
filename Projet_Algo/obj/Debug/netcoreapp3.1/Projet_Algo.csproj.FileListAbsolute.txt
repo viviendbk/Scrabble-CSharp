@@ -1,0 +1,14 @@
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\bin\Debug\netcoreapp3.1\Projet_Algo.exe
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\bin\Debug\netcoreapp3.1\Projet_Algo.deps.json
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\bin\Debug\netcoreapp3.1\Projet_Algo.runtimeconfig.json
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\bin\Debug\netcoreapp3.1\Projet_Algo.runtimeconfig.dev.json
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\bin\Debug\netcoreapp3.1\Projet_Algo.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\bin\Debug\netcoreapp3.1\Projet_Algo.pdb
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.csprojAssemblyReference.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.AssemblyInfoInputs.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.AssemblyInfo.cs
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.csproj.CoreCompileInputs.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.pdb
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 1\algo\Projet_Algo\Projet_Algo\obj\Debug\netcoreapp3.1\Projet_Algo.genruntimeconfig.cache
